@@ -11,14 +11,10 @@
             "id": "37a6b38fe25d8b81",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "beam_lifetime/scattering/elastic.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "elastic"
+              "title": "New tab"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 276.5
   },
   "right": {
     "id": "4e8d0ce813268fda",
@@ -180,21 +176,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0a54a8a0de629838",
+  "active": "7d0e47ebffb3b64d",
   "lastOpenFiles": [
+    "beam_lifetime/scattering/bremhsstrahlung.md",
+    "beam_lifetime/DSP/фильтр Калмана.md",
+    "beam_lifetime/DSP/обработка сигнала.md",
+    "beam_lifetime/scattering/elastic.md",
     "2025-09-30.md",
     "Untitled.canvas",
-    "beam_lifetime/scattering/elastic.md",
-    "beam_lifetime/DSP/обработка сигнала.md",
     "Untitled.base",
     "Untitled 1.canvas",
     "beam_lifetime/scattering/скрины/Screenshot 2025-09-25 at 13.01.45.png",
     "beam_lifetime/scattering/скрины/Screenshot 2025-09-15 at 12.06.57.png",
-    "beam_lifetime/DSP/фильтр Калмана.md",
     "beam_lifetime/scattering/скрины/Screenshot 2025-09-25 at 11.47.09.png",
     "beam_lifetime/scattering/скрины",
     "beam_lifetime/scattering/скрины/Screenshot 2025-09-25 at 13.01.59.png",
-    "beam_lifetime/scattering/bremhsstrahlung.md",
     "beam_lifetime/scattering/скрины/Screenshot 2025-09-25 at 11.48.57.png",
     "beam_lifetime/scattering/Elastic.md",
     "beam_lifetime/scattering/Elastic",
