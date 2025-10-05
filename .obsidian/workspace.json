@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "beam_lifetime/DSP/Untitled.md",
+                "file": "beam_lifetime/DSP/Выделение тренда в сигнале.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Выделение тренда в сигнале"
             }
           }
         ]
@@ -182,7 +182,19 @@
   },
   "active": "0a54a8a0de629838",
   "lastOpenFiles": [
-    "beam_lifetime/DSP/Untitled.md",
+    "beam_lifetime/DSP/скрины/100_parts.png",
+    "beam_lifetime/DSP/скрины/20_parts.png",
+    "beam_lifetime/DSP/скрины/10_parts.png",
+    "beam_lifetime/DSP/скрины/5_parts.png",
+    "beam_lifetime/DSP/скрины/Screenshot 2025-10-05 at 20.46.51.png",
+    "beam_lifetime/DSP/скрины/Screenshot 2025-10-05 at 20.43.31.png",
+    "beam_lifetime/DSP/скрины/Screenshot 2025-10-05 at 20.42.47.png",
+    "beam_lifetime/DSP/скрины/Screenshot 2025-10-05 at 20.41.59.png",
+    "beam_lifetime/DSP/скрины/Screenshot 2025-10-05 at 20.38.12.png",
+    "beam_lifetime/DSP/скрины/Screenshot 2025-10-05 at 20.32.19.png",
+    "beam_lifetime/DSP/скрины/Screenshot 2025-10-05 at 20.27.08.png",
+    "beam_lifetime/DSP/скрины",
+    "beam_lifetime/DSP/Выделение тренда в сигнале.md",
     "beam_lifetime/data/beam/splitted_by_days/i5lifetime/beam_data_2025-07-05_00-00-00_to_00-00-00.csv",
     "beam_lifetime/data/beam/splitted_by_days/i5lifetime/beam_data_2025-07-04_00-00-00_to_00-00-00.csv",
     "beam_lifetime/data/beam/splitted_by_days/i5lifetime/beam_data_2025-07-03_00-00-00_to_00-00-00.csv",
@@ -192,7 +204,6 @@
     "beam_lifetime/data/beam/splitted_by_days/i5beam/beam_data_2025-07-05_00-00-00_to_00-00-00.csv",
     "beam_lifetime/data/beam/splitted_by_days/i5beam/beam_data_2025-07-04_00-00-00_to_00-00-00.csv",
     "beam_lifetime/data/beam/splitted_by_days/i5beam/beam_data_2025-07-03_00-00-00_to_00-00-00.csv",
-    "beam_lifetime/data/beam/splitted_by_days/i5beam/beam_data_2025-07-02_00-00-00_to_00-00-00.csv",
     "beam_lifetime/scattering/bremhsstrahlung.md",
     "beam_lifetime/DSP/фильтр Калмана.md",
     "beam_lifetime/DSP/обработка сигнала.md",
@@ -200,17 +211,7 @@
     "2025-09-30.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "beam_lifetime/scattering/скрины/Screenshot 2025-09-25 at 13.01.45.png",
-    "beam_lifetime/scattering/скрины/Screenshot 2025-09-15 at 12.06.57.png",
-    "beam_lifetime/scattering/скрины/Screenshot 2025-09-25 at 11.47.09.png",
-    "beam_lifetime/scattering/скрины/Screenshot 2025-09-25 at 13.01.59.png",
-    "beam_lifetime/scattering/скрины/Screenshot 2025-09-25 at 11.48.57.png",
     "beam_lifetime/scattering/Elastic.md",
-    "beam_lifetime/DSP/скрины/Screenshot 2025-09-15 at 01.41.30.png",
-    "beam_lifetime/DSP/скрины/Screenshot 2025-09-15 at 11.48.45.png",
-    "beam_lifetime/DSP/скрины/kalman.png",
-    "beam_lifetime/DSP/Screenshot 2025-09-15 at 02.45.05.png",
-    "beam_lifetime/DSP/скрины/Screenshot 2025-09-15 at 02.45.05.png",
     "beam_lifetime/DSP/Untitled 1.md",
     "beam_lifetime/Welcome.md"
   ]
